@@ -40,7 +40,7 @@ This once per year, in person, half-day, hackathon-style event is designed to ca
 | **Introduction and Overview on the Hackathon Format**<br /> `Enrico Forti`                                                                                         | **10 mins**      |
 | **Part 1 — Hackathon: “Seeding” Macro and Micro Perspectives (Plenary)**                                                                           | **80 mins**     |
 | Faculty participants share a max 5’ min presentation introducing a specific research “seed” — i.e., a research question looking for a viable empirical strategy; a research method looking for possible applications; or a dataset with underexplored potential.
-about 8-10 presenters and “seeds” TBC
+- 3-6 presenters and “seeds” TBC
 At the end of the plenary, organizers will briefly review the structure of the roundtables, and the worksheets/templates participants will use when discussing and developing the “seeds” in Part 2 of the event. | |
 | **Part 2 — Hackathon: Growing the Research Seeds (Parallel Breakout Roundtable Sessions)**                                                                                     | **90 mins**     |
 | Groups of participants collaboratively develop research designs. 
