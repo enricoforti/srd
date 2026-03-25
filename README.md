@@ -36,6 +36,8 @@ An in person, half-day, hackathon-style event designed to catalyze new research 
 **TBC**, Seton Hall University, Stillman School of Business<br>
 **TBC**, Seton Hall University, Stillman School of Business<br>
 **TBC**, Seton Hall University, Stillman School of Business<br>
+**TBC**, Seton Hall University, Stillman School of Business<br>
+**TBC**, Seton Hall University, Stillman School of Business<br>
 
 <h2>Organizational Support</h2>
 
