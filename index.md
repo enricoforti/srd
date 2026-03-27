@@ -48,7 +48,7 @@ Participants (faculty members and students) brainstorm, match questions to data 
 
 <h2>Format and Structure</h2>
 
-| <h3>Activity Description</h3> | <h3>Time</h3> |
+| Activity Description | Time |
 | :--- | :--- |
 | **Introduction and Overview on the Hackathon Format**<br />`Enrico Forti` | **10 mins** |
 | **Part 1 — Hackathon: “Seeding” Macro and Micro Perspectives (Plenary)**<br /><br />Faculty participants share a max 5’ min presentation introducing a specific research “seed” — i.e., a research question looking for a viable empirical strategy; a research method looking for possible applications; or a dataset with underexplored potential.<br /><br />• 6-8 presenters and “seeds” TBC<br /><br />At the end of the plenary, organizers will briefly review the structure of the roundtables, and the worksheets/templates participants will use when discussing and developing the “seeds” in Part 2 of the event. | **80 mins** |
