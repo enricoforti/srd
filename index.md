@@ -5,7 +5,7 @@
 _Pre-registration is recommended for facilitating interactions during Part 2, but all are welcome to attend the entire event without pre-registration._
 
 An in person, half-day, hackathon-style event designed to catalyze new research by using a flipped format: Stillman School of Business faculty members share upfront research “seeds”:
-- a sharp question in search of an empirical strategy,
+- a research question in search of an empirical strategy,
 - a method looking for applications, or
 - a novel dataset with underexplored potential.
 
