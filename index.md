@@ -2,6 +2,10 @@
 
 **Tuesday, May 5 2026 2:00PM - 5:30PM ET** at **Stillman School of Business** in **Jubilee Hall - 4th Floor Atrium**<br>
 
+## [:large_blue_circle: Sign-up here](https://forms.cloud.microsoft/r/VRBahh5Y5F)
+
+[![Sign-up](https://img.shields.io/badge/Sign--up-Here-blue?style=for-the-badge)](https://forms.cloud.microsoft/r/VRBahh5Y5F)
+
 _Pre-registration is recommended for facilitating interactions during Part 2, but all are welcome to attend the entire event without pre-registration._
 
 An in person, half-day, hackathon-style event designed to catalyze new research by using a flipped format: Stillman School of Business faculty members share upfront research “seeds”:
