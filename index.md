@@ -2,11 +2,7 @@
 
 **Tuesday, May 5 2026 2:00PM - 5:30PM ET** at **Stillman School of Business** in **Jubilee Hall - 4th Floor Atrium**<br>
 
-## [:large_blue_circle: Sign-up here](https://forms.cloud.microsoft/r/VRBahh5Y5F)
-
-[![Sign-up](https://img.shields.io/badge/Sign--up-Here-blue?style=for-the-badge)](https://forms.cloud.microsoft/r/VRBahh5Y5F)
-
-_Pre-registration is recommended for facilitating interactions during Part 2, but all are welcome to attend the entire event without pre-registration._
+[![Sign-up](https://img.shields.io/badge/Participant-Sign--up-informational?style=for-the-badge)](https://forms.cloud.microsoft/r/VRBahh5Y5F)
 
 An in person, half-day, hackathon-style event designed to catalyze new research by using a flipped format: Stillman School of Business faculty members share upfront research “seeds”:
 - a research question in search of an empirical strategy,
@@ -16,6 +12,8 @@ An in person, half-day, hackathon-style event designed to catalyze new research 
 Participants (faculty members and students) brainstorm, match questions to data and methods, and sketch concrete next steps for publishable projects. By the end of this session, participants will have sharpened research ideas and may have produced concrete next steps with potential collaborators—such as draft research designs or data-method pairings.
 
 **All welcome!** Stillman School of Business students that have shown high potential and curiosity about research are particularly encouraged to participate. Faculty and students from other SHU schools/departments and faculty visiting from other institutions may be also welcome to join, if appropriate.
+
+_Pre-registration is recommended for facilitating interactions during Part 2, but all are welcome to attend the entire event without pre-registration. [Sign-up here by May 1, 2026](https://forms.cloud.microsoft/r/VRBahh5Y5F)_
 
 <h2>Organizers</h2>
 
@@ -64,4 +62,6 @@ Participants (faculty members and students) brainstorm, match questions to data 
 
 ## Pre-registration Survey
 
-Please use this [link](https://LLLLLLLLLL) to pre-register yourself to attend Part 2 of the event **by May 1, 2026**. Pre-registration is recommended for facilitating interactions during Part 2, but all are welcome to attend the entire event without pre-registration.
+Please use this [link](https://forms.cloud.microsoft/r/VRBahh5Y5F) to pre-register yourself to attend Part 2 of the event **by May 1, 2026**. Pre-registration is recommended for facilitating interactions during Part 2, but all are welcome to attend the entire event without pre-registration.
+
+[![Sign-up](https://img.shields.io/badge/Participant-Sign--up-informational?style=for-the-badge)](https://forms.cloud.microsoft/r/VRBahh5Y5F)
