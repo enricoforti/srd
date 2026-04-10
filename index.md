@@ -17,21 +17,21 @@ _Pre-registration is recommended for facilitating interactions during Part 2, bu
 
 <h2>Organizers</h2>
 
-**Enrico Forti**, Assistant Professor of Strategy, Seton Hall University, Stillman School of Business<br>
-**Shen Zhang**, Assistant Professor of Finance, Seton Hall University, Stillman School of Business<br>
-**Nicolas Dahan**, Assistant Professor of Management, Seton Hall University, Stillman School of Business<br>
-**Debra Lee Surface**, Assistant Professor of Marketing, Seton Hall University, Stillman School of Business<br>
+**[Enrico Forti](https://www.shu.edu/profiles/fortienr.html)**, Assistant Professor of Strategy<br>
+**[Shen Zhang](https://www.shu.edu/profiles/zhangsh3.html)**, Assistant Professor of Finance<br>
+**[Nicolas Dahan](https://www.shu.edu/profiles/dahannic.html)**, Assistant Professor of Management<br>
+**[Debra Lee Surface](https://www.shu.edu/profiles/surfacde.html)**, Assistant Professor of Marketing<br>
  
 <h2>Research Seeds Contributors</h2>
 
-**Shen Zhang**, Assistant Professor of Finance, Seton Hall University, Stillman School of Business<br>
-**Nicolas Dahan**, Assistant Professor of Management, Seton Hall University, Stillman School of Business<br>
-**Debra Lee Surface**, Assistant Professor of Marketing, Seton Hall University, Stillman School of Business<br>
-**Jennifer Itzkowitz**, Professor of Finance, Seton Hall University, Stillman School of Business<br>
-**Daniel Ladik**, Associate Professor of Marketing, Seton Hall University, Stillman School of Business<br>
-**Ryan Ellis**, Assistant Professor of Economics, Seton Hall University, Stillman School of Business<br>
-**Katri Nousiainen**, Assistant Professor in Economics and Legal Studies, Seton Hall University, Stillman School of Business<br>
-**Hector Lozada-Vega**, Associate Professor of Marketing, Seton Hall University, Stillman School of Business<br>
+**[Shen Zhang](https://www.shu.edu/profiles/zhangsh3.html)**, Assistant Professor of Finance<br>
+**[Nicolas Dahan](https://www.shu.edu/profiles/dahannic.html)**, Assistant Professor of Management<br>
+**[Debra Lee Surface](https://www.shu.edu/profiles/surfacde.html)**, Assistant Professor of Marketing<br>
+**[Jennifer Itzkowitz](https://www.shu.edu/profiles/jenniferitzkowitz.html)**, Professor of Finance<br>
+**[Daniel Ladik](https://www.shu.edu/profiles/danielladik.html)**, Associate Professor of Marketing<br>
+**[Ryan Ellis](https://www.shu.edu/profiles/ellisrya.html)**, Assistant Professor of Economics<br>
+**[Katri Nousiainen](https://www.shu.edu/profiles/nousiaka.html)**, Assistant Professor in Economics and Legal Studies<br>
+**[Hector Lozada-Vega](https://www.shu.edu/profiles/hectorlozadavega.html)**, Associate Professor of Marketing<br>
 
 <h2>Facilitators</h2>
 
