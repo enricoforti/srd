@@ -58,7 +58,7 @@ _Pre-registration is recommended for facilitating interactions during Part 2, bu
 | **Wrap-Up and Reflections** | **10 mins** |
 | **Networking Reception**<br><br>Jubilee Hall, 4th Floor Atrium and Terrazza | **90 mins** |
 
-## Pre-registration Survey
+## Sign-up Survey
 
 Please use this [link](https://forms.cloud.microsoft/r/VRBahh5Y5F) to pre-register yourself to attend Part 2 of the event **by May 1, 2026**. Pre-registration is recommended for facilitating interactions during Part 2, but all are welcome to attend the entire event without pre-registration.
 
