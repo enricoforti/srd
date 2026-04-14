@@ -6,7 +6,7 @@
 
 An in person, half-day, hackathon-style event designed to catalyze new research by using a flipped format: 
 
-1. **Stillman School of Business faculty members** share upfront research “seeds”:
+1. **Stillman School of Business faculty members** introduce research “seeds”:
 - a research question in search of an empirical strategy,
 - a method looking for applications, or
 - a dataset with underexplored potential.
