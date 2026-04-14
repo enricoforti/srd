@@ -1,6 +1,6 @@
 <h1>An opportunity to explore faculty research and meet new people</h1>
 
-**Tuesday, May 5 2026 2:00PM - 5:30PM ET** at **Stillman School of Business** in **Jubilee Hall - 4th Floor Atrium**<br>
+**Tuesday, May 5 2026 2:00PM - 5:30PM + Networking Reception** at **Stillman School of Business** in **Jubilee Hall - 4th Floor Atrium**<br>
 
 [![Sign-up](https://img.shields.io/badge/Participant-Sign--up-informational?style=for-the-badge)](https://forms.cloud.microsoft/r/VRBahh5Y5F)
 
