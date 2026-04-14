@@ -1,4 +1,4 @@
-<h1>An opportunity to explore faculty research and meet new people.</h1>
+<h1>An opportunity to explore faculty research and meet new people</h1>
 
 **Tuesday, May 5 2026 2:00PM - 5:30PM ET** at **Stillman School of Business** in **Jubilee Hall - 4th Floor Atrium**<br>
 
