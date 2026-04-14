@@ -6,12 +6,12 @@
 
 An in person, half-day, hackathon-style event designed to catalyze new research by using a flipped format: 
 
-1. **Stillman School of Business faculty members** introduce research “seeds”:
+1. **Stillman faculty members** introduce research “seeds”:
 - a research question in search of an empirical strategy,
 - a method looking for applications, or
 - a dataset with underexplored potential.
 
-2. **Participants (faculty members and students)** brainstorm, match questions to data and methods, and sketch concrete next steps for publishable projects. By the end of this session, participants will have sharpened research ideas and may have produced concrete next steps with potential collaborators—such as draft research designs or data-method pairings.
+2. **Participants (faculty and students)** brainstorm, match questions to data and methods, and sketch concrete next steps for publishable projects. By the end of this session, participants will have sharpened research ideas and may have produced concrete next steps with potential collaborators—such as draft research designs or data-method pairings.
 
 **All welcome!** Stillman School of Business sophomores and juniors are particularly encouraged to participate. Faculty and students from other SHU schools/departments and faculty visiting from other institutions are also welcome to join.
 
