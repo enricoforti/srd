@@ -43,7 +43,6 @@ _Pre-registration is recommended for facilitating interactions during Part 2, bu
 **TBC**, Seton Hall University, Stillman School of Business<br>
 **TBC**, Seton Hall University, Stillman School of Business<br>
 **TBC**, Seton Hall University, Stillman School of Business<br>
-**TBC**, Seton Hall University, Stillman School of Business<br>
 
 <h2>Organizational Support</h2>
 
